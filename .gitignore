@@ -1,0 +1,3 @@
+*.zip
+jadx/
+payload_dumper/
